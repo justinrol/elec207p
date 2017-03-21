@@ -1,0 +1,720 @@
+2017-03-18 18:49:04,829 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:49:04,869 [INFO] - [*] System Bind Complete
+2017-03-18 18:49:04,894 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 18:49:08,794 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:49:08,810 [INFO] - [*] System Exit
+2017-03-18 18:49:34,442 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:49:34,451 [INFO] - [*] System Bind Complete
+2017-03-18 18:49:34,459 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 18:49:36,601 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:49:36,616 [INFO] - [*] System Exit
+2017-03-18 18:51:55,539 [INFO] - [*] Connected with 127.0.0.1:62807
+2017-03-18 18:52:40,118 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:52:40,131 [INFO] - [*] System Exit
+2017-03-18 18:52:42,483 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:52:42,496 [INFO] - [*] System Exit
+2017-03-18 18:53:11,657 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:53:11,664 [INFO] - [*] System Bind Complete
+2017-03-18 18:53:11,669 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 18:53:13,879 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:53:13,893 [INFO] - [*] System Exit
+2017-03-18 18:53:17,798 [INFO] - [*] Connected with 127.0.0.1:62852
+2017-03-18 18:53:49,988 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:53:51,276 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:53:51,292 [INFO] - [*] System Exit
+2017-03-18 18:53:53,860 [INFO] - [*] Connected with 127.0.0.1:62864
+2017-03-18 18:54:28,015 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:54:28,028 [INFO] - [*] System Exit
+2017-03-18 18:54:29,606 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:54:30,822 [INFO] - [*] Connected with 127.0.0.1:62875
+2017-03-18 18:54:51,247 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:54:51,266 [INFO] - [*] System Exit
+2017-03-18 18:54:53,572 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:54:53,585 [INFO] - [*] System Exit
+2017-03-18 18:54:58,876 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:54:58,890 [INFO] - [*] System Exit
+2017-03-18 18:55:01,138 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:55:01,151 [INFO] - [*] System Exit
+2017-03-18 18:55:12,552 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:55:12,566 [INFO] - [*] System Exit
+2017-03-18 18:55:14,589 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:55:14,602 [INFO] - [*] System Exit
+2017-03-18 18:55:29,080 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:55:29,087 [INFO] - [*] System Bind Complete
+2017-03-18 18:55:29,093 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 18:55:31,049 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:55:31,062 [INFO] - [*] System Exit
+2017-03-18 18:55:33,149 [INFO] - [*] Connected with 127.0.0.1:62904
+2017-03-18 18:55:33,240 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:55:53,218 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:55:53,231 [INFO] - [*] System Exit
+2017-03-18 18:55:55,602 [INFO] - [*] Connected with 127.0.0.1:62911
+2017-03-18 18:55:55,693 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:56:09,185 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:56:09,206 [INFO] - [*] System Exit
+2017-03-18 18:56:12,462 [INFO] - [*] Connected with 127.0.0.1:62917
+2017-03-18 18:56:12,554 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:56:22,485 [INFO] - [*] Connected with 127.0.0.1:62926
+2017-03-18 18:56:22,550 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:56:36,700 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:56:36,714 [INFO] - [*] System Exit
+2017-03-18 18:56:38,192 [INFO] - [*] Connected with 127.0.0.1:62933
+2017-03-18 18:56:38,267 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:57:23,202 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:57:23,215 [INFO] - [*] System Exit
+2017-03-18 18:57:26,027 [INFO] - [*] Connected with 127.0.0.1:62951
+2017-03-18 18:57:40,407 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:57:40,421 [INFO] - [*] System Exit
+2017-03-18 18:57:42,964 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:57:43,826 [INFO] - [*] Connected with 127.0.0.1:62959
+2017-03-18 18:57:49,243 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:58:00,692 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:58:00,710 [INFO] - [*] System Exit
+2017-03-18 18:58:03,389 [INFO] - [*] Connected with 127.0.0.1:62964
+2017-03-18 18:58:03,618 [INFO] - [*] Closing Socket Connection
+2017-03-18 18:58:21,509 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:58:21,517 [INFO] - [*] System Bind Complete
+2017-03-18 18:58:21,522 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 18:58:23,446 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:58:23,460 [INFO] - [*] System Exit
+2017-03-18 18:58:26,578 [INFO] - [*] Connected with 127.0.0.1:62980
+2017-03-18 18:58:41,664 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:58:41,677 [INFO] - [*] System Exit
+2017-03-18 18:58:51,417 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:58:51,431 [INFO] - [*] System Exit
+2017-03-18 18:58:53,338 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 18:58:53,352 [INFO] - [*] System Exit
+2017-03-18 19:00:12,401 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:00:12,408 [INFO] - [*] System Bind Complete
+2017-03-18 19:00:12,415 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:00:14,480 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:00:14,495 [INFO] - [*] System Exit
+2017-03-18 19:00:20,587 [INFO] - [*] Connected with 127.0.0.1:63013
+2017-03-18 19:00:20,690 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:00:56,298 [INFO] - [*] Connected with 127.0.0.1:63019
+2017-03-18 19:01:09,231 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:01:09,238 [INFO] - [*] System Bind Complete
+2017-03-18 19:01:09,245 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:01:11,240 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:01:11,255 [INFO] - [*] System Exit
+2017-03-18 19:01:14,051 [INFO] - [*] Connected with 127.0.0.1:63027
+2017-03-18 19:01:14,130 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:01:24,494 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:01:24,510 [INFO] - [*] System Exit
+2017-03-18 19:01:26,501 [INFO] - [*] Connected with 127.0.0.1:63034
+2017-03-18 19:01:26,573 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:01:47,299 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:01:47,311 [INFO] - [*] System Exit
+2017-03-18 19:01:49,363 [INFO] - [*] Connected with 127.0.0.1:63041
+2017-03-18 19:01:49,460 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:01:56,180 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:01:56,188 [INFO] - [*] System Bind Complete
+2017-03-18 19:01:56,196 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:01:58,076 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:01:58,090 [INFO] - [*] System Exit
+2017-03-18 19:02:02,337 [INFO] - [*] Connected with 127.0.0.1:63047
+2017-03-18 19:02:02,423 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:02:44,263 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:02:44,276 [INFO] - [*] System Exit
+2017-03-18 19:02:46,532 [INFO] - [*] Connected with 127.0.0.1:63077
+2017-03-18 19:02:46,643 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:03:03,746 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:03:03,758 [INFO] - [*] System Exit
+2017-03-18 19:03:06,115 [INFO] - [*] Connected with 127.0.0.1:63101
+2017-03-18 19:03:06,196 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:03:18,185 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:03:18,198 [INFO] - [*] System Exit
+2017-03-18 19:03:19,726 [INFO] - [*] Connected with 127.0.0.1:63123
+2017-03-18 19:03:19,798 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:03:28,182 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:03:28,192 [INFO] - [*] System Bind Complete
+2017-03-18 19:03:28,200 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:03:30,382 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:03:30,397 [INFO] - [*] System Exit
+2017-03-18 19:03:32,595 [INFO] - [*] Connected with 127.0.0.1:63141
+2017-03-18 19:03:40,906 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:03:57,687 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:03:57,749 [INFO] - [*] System Exit
+2017-03-18 19:04:03,682 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:04:03,735 [INFO] - [*] System Exit
+2017-03-18 19:04:21,876 [INFO] - [*] Connected with 127.0.0.1:63175
+2017-03-18 19:04:40,868 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:04:40,881 [INFO] - [*] System Exit
+2017-03-18 19:04:42,909 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:04:42,923 [INFO] - [*] System Exit
+2017-03-18 19:04:48,838 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:04:48,863 [INFO] - [*] System Exit
+2017-03-18 19:04:51,093 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:04:51,107 [INFO] - [*] System Exit
+2017-03-18 19:04:55,824 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:04:55,837 [INFO] - [*] System Exit
+2017-03-18 19:05:00,498 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:05:00,512 [INFO] - [*] System Exit
+2017-03-18 19:05:03,500 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:05:03,526 [INFO] - [*] System Exit
+2017-03-18 19:05:07,836 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:05:07,845 [INFO] - [*] System Bind Complete
+2017-03-18 19:05:07,852 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:05:09,866 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:05:09,880 [INFO] - [*] System Exit
+2017-03-18 19:05:12,094 [INFO] - [*] Connected with 127.0.0.1:63195
+2017-03-18 19:05:25,441 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:05:25,515 [INFO] - [*] System Exit
+2017-03-18 19:05:45,656 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:05:45,669 [INFO] - [*] System Exit
+2017-03-18 19:05:48,304 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:05:49,175 [INFO] - [*] Connected with 127.0.0.1:63208
+2017-03-18 19:05:55,211 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:06:16,078 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:06:16,092 [INFO] - [*] System Exit
+2017-03-18 19:06:17,769 [INFO] - [*] Connected with 127.0.0.1:63238
+2017-03-18 19:06:22,455 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:06:35,376 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:06:35,391 [INFO] - [*] System Exit
+2017-03-18 19:06:36,893 [INFO] - [*] Connected with 127.0.0.1:63246
+2017-03-18 19:07:22,776 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:07:22,789 [INFO] - [*] System Exit
+2017-03-18 19:07:28,020 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:07:28,034 [INFO] - [*] System Exit
+2017-03-18 19:07:30,089 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:07:30,104 [INFO] - [*] System Exit
+2017-03-18 19:08:14,241 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:08:14,249 [INFO] - [*] System Bind Complete
+2017-03-18 19:08:14,256 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:08:16,887 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:08:16,909 [INFO] - [*] System Exit
+2017-03-18 19:08:20,243 [INFO] - [*] Connected with 127.0.0.1:63535
+2017-03-18 19:08:24,366 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:08:51,606 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:08:51,688 [INFO] - [*] System Exit
+2017-03-18 19:08:59,106 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:08:59,120 [INFO] - [*] System Exit
+2017-03-18 19:09:00,985 [INFO] - [*] Connected with 127.0.0.1:63645
+2017-03-18 19:09:06,031 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:09:36,732 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:09:36,750 [INFO] - [*] System Exit
+2017-03-18 19:09:38,868 [INFO] - [*] Connected with 127.0.0.1:63655
+2017-03-18 19:10:30,178 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:10:31,050 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:10:31,081 [INFO] - [*] System Exit
+2017-03-18 19:10:34,052 [INFO] - [*] Connected with 127.0.0.1:63677
+2017-03-18 19:10:58,206 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:11:42,453 [INFO] - [*] Connected with 127.0.0.1:63696
+2017-03-18 19:12:14,727 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:12:15,869 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:12:15,945 [INFO] - [*] System Exit
+2017-03-18 19:12:19,013 [INFO] - [*] Connected with 127.0.0.1:63712
+2017-03-18 19:13:16,867 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:13:16,880 [INFO] - [*] System Exit
+2017-03-18 19:13:19,074 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:13:19,088 [INFO] - [*] System Exit
+2017-03-18 19:13:24,862 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:13:24,876 [INFO] - [*] System Exit
+2017-03-18 19:13:26,828 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:13:26,841 [INFO] - [*] System Exit
+2017-03-18 19:13:31,923 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:13:31,932 [INFO] - [*] System Bind Complete
+2017-03-18 19:13:31,939 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:13:33,879 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:13:33,895 [INFO] - [*] System Exit
+2017-03-18 19:13:38,521 [INFO] - [*] Connected with 127.0.0.1:63737
+2017-03-18 19:14:10,652 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:14:10,675 [INFO] - [*] System Exit
+2017-03-18 19:14:17,507 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:14:17,522 [INFO] - [*] System Exit
+2017-03-18 19:14:19,479 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:14:19,493 [INFO] - [*] System Exit
+2017-03-18 19:14:35,815 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:14:35,828 [INFO] - [*] System Exit
+2017-03-18 19:14:37,771 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:14:37,784 [INFO] - [*] System Exit
+2017-03-18 19:14:46,603 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:14:46,610 [INFO] - [*] System Bind Complete
+2017-03-18 19:14:46,619 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:14:48,579 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:14:48,596 [INFO] - [*] System Exit
+2017-03-18 19:14:52,255 [INFO] - [*] Connected with 127.0.0.1:63765
+2017-03-18 19:18:47,382 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:18:47,394 [INFO] - [*] System Exit
+2017-03-18 19:18:54,699 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:18:54,729 [INFO] - [*] System Exit
+2017-03-18 19:19:29,433 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:19:29,451 [INFO] - [*] System Exit
+2017-03-18 19:19:49,363 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:19:49,377 [INFO] - [*] System Exit
+2017-03-18 19:19:52,265 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:19:53,219 [INFO] - [*] Connected with 127.0.0.1:63962
+2017-03-18 19:21:16,660 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:21:16,673 [INFO] - [*] System Exit
+2017-03-18 19:21:19,152 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:21:21,749 [INFO] - [*] Connected with 127.0.0.1:64093
+2017-03-18 19:22:53,025 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:22:53,038 [INFO] - [*] System Exit
+2017-03-18 19:22:55,160 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:22:55,963 [INFO] - [*] Connected with 127.0.0.1:64124
+2017-03-18 19:23:16,067 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:23:16,081 [INFO] - [*] System Exit
+2017-03-18 19:23:40,888 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:23:40,902 [INFO] - [*] System Exit
+2017-03-18 19:23:46,781 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:23:46,794 [INFO] - [*] System Exit
+2017-03-18 19:24:05,195 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:24:05,208 [INFO] - [*] System Exit
+2017-03-18 19:24:09,226 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:24:10,077 [INFO] - [*] Connected with 127.0.0.1:64145
+2017-03-18 19:24:24,782 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:24:24,795 [INFO] - [*] System Exit
+2017-03-18 19:24:34,773 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:24:35,650 [INFO] - [*] Connected with 127.0.0.1:64158
+2017-03-18 19:25:03,259 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:25:03,273 [INFO] - [*] System Exit
+2017-03-18 19:25:03,516 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:25:08,201 [INFO] - [*] Connected with 127.0.0.1:64187
+2017-03-18 19:25:08,562 [INFO] - [*] Socket Converse time: 0:00:00.349507
+2017-03-18 19:25:08,570 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:25:32,942 [INFO] - [*] Connected with 127.0.0.1:64198
+2017-03-18 19:25:33,296 [INFO] - [*] Socket Converse time: 0:00:00.338449
+2017-03-18 19:28:28,819 [INFO] - [*] Connected with 127.0.0.1:64282
+2017-03-18 19:28:29,402 [INFO] - [*] Socket Converse time: 0:00:00.567573
+2017-03-18 19:29:12,453 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:29:12,460 [INFO] - [*] System Bind Complete
+2017-03-18 19:29:12,466 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:29:14,403 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:29:14,417 [INFO] - [*] System Exit
+2017-03-18 19:29:16,825 [INFO] - [*] Connected with 127.0.0.1:64302
+2017-03-18 19:29:17,111 [INFO] - [*] Socket Converse time: 0:00:00.272633
+2017-03-18 19:29:33,531 [INFO] - [*] Connected with 127.0.0.1:64311
+2017-03-18 19:29:33,799 [INFO] - [*] Socket Converse time: 0:00:00.257384
+2017-03-18 19:29:40,574 [INFO] - [*] Connected with 127.0.0.1:64318
+2017-03-18 19:29:40,777 [INFO] - [*] Socket Converse time: 0:00:00.188510
+2017-03-18 19:29:48,392 [INFO] - [*] Connected with 127.0.0.1:64322
+2017-03-18 19:29:48,629 [INFO] - [*] Socket Converse time: 0:00:00.225407
+2017-03-18 19:29:48,637 [INFO] - [*] Closing Socket Connection
+2017-03-18 19:33:00,853 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:33:00,866 [INFO] - [*] System Exit
+2017-03-18 19:33:07,121 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:33:07,128 [INFO] - [*] System Bind Complete
+2017-03-18 19:33:07,136 [INFO] - [*] Socket Server listening at 8000
+2017-03-18 19:33:09,568 [INFO] - [*] Socket Created at port: 8000
+2017-03-18 19:33:09,583 [INFO] - [*] System Exit
+2017-03-18 19:33:12,085 [INFO] - [*] Connected with 127.0.0.1:64416
+2017-03-18 19:33:12,402 [INFO] - [*] Socket Converse time: 0:00:00.305096
+2017-03-19 14:16:58,817 [INFO] - [*] Socket Created at port: 8000
+2017-03-19 14:16:58,878 [INFO] - [*] System Exit
+2017-03-19 14:18:33,678 [INFO] - [*] Connected with 127.0.0.1:59849
+2017-03-19 14:18:34,231 [INFO] - [*] Socket Converse time: 0:00:00.518522
+2017-03-19 14:23:18,311 [INFO] - [*] Socket Created at port: 8000
+2017-03-19 14:23:18,332 [INFO] - [*] System Exit
+2017-03-19 14:23:23,571 [INFO] - [*] Socket Created at port: 8000
+2017-03-19 14:23:23,583 [INFO] - [*] System Bind Complete
+2017-03-19 14:23:23,589 [INFO] - [*] Socket Server listening at 8000
+2017-03-19 14:23:26,559 [INFO] - [*] Socket Created at port: 8000
+2017-03-19 14:23:26,596 [INFO] - [*] System Exit
+2017-03-19 14:23:35,535 [INFO] - [*] Connected with 127.0.0.1:60187
+2017-03-19 14:23:35,923 [INFO] - [*] Socket Converse time: 0:00:00.376859
+2017-03-19 14:23:35,930 [INFO] - [*] Closing Socket Connection
+2017-03-19 14:24:32,075 [INFO] - [*] Socket Created at port: 8000
+2017-03-19 14:24:32,091 [INFO] - [*] System Exit
+2017-03-19 16:32:08,809 [INFO] - [*] Socket Created at port: 8000
+2017-03-19 16:32:08,810 [INFO] - [*] System Bind Complete
+2017-03-19 16:32:08,811 [INFO] - [*] Socket Server listening at 8000
+2017-03-19 16:32:28,127 [INFO] - [*] Socket Created at port: 8000
+2017-03-19 16:32:28,129 [INFO] - [*] System Exit
+2017-03-19 16:32:35,160 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 16:32:35,160 [INFO] - [*] System Bind Complete
+2017-03-19 16:32:35,160 [INFO] - [*] Socket Server listening at 8888
+2017-03-19 16:33:08,990 [INFO] - [*] Connected with 192.168.0.54:56408
+2017-03-19 16:33:09,094 [INFO] - [*] Connected with 127.0.0.1:51977
+2017-03-19 16:33:09,145 [INFO] - [*] Connected with 127.0.0.1:51978
+2017-03-19 16:33:09,203 [INFO] - [*] Connected with 127.0.0.1:51979
+2017-03-19 16:33:09,249 [INFO] - [*] Connected with 127.0.0.1:51980
+2017-03-19 16:33:09,301 [INFO] - [*] Connected with 127.0.0.1:51981
+2017-03-19 16:33:09,349 [INFO] - [*] Connected with 127.0.0.1:51982
+2017-03-19 16:33:09,398 [INFO] - [*] Connected with 127.0.0.1:51983
+2017-03-19 16:33:09,445 [INFO] - [*] Connected with 127.0.0.1:51984
+2017-03-19 16:33:09,494 [INFO] - [*] Connected with 127.0.0.1:51986
+2017-03-19 16:33:09,546 [INFO] - [*] Connected with 127.0.0.1:51987
+2017-03-19 16:33:09,594 [INFO] - [*] Connected with 127.0.0.1:51988
+2017-03-19 16:33:09,638 [INFO] - [*] Connected with 127.0.0.1:51989
+2017-03-19 16:33:09,689 [INFO] - [*] Connected with 127.0.0.1:51990
+2017-03-19 16:33:09,741 [INFO] - [*] Connected with 127.0.0.1:51991
+2017-03-19 16:33:09,790 [INFO] - [*] Connected with 127.0.0.1:51992
+2017-03-19 16:33:09,842 [INFO] - [*] Connected with 127.0.0.1:51993
+2017-03-19 16:33:09,899 [INFO] - [*] Connected with 127.0.0.1:51994
+2017-03-19 16:33:09,949 [INFO] - [*] Connected with 127.0.0.1:51995
+2017-03-19 16:33:09,999 [INFO] - [*] Connected with 127.0.0.1:51996
+2017-03-19 16:33:10,056 [INFO] - [*] Connected with 127.0.0.1:51997
+2017-03-19 16:33:10,107 [INFO] - [*] Connected with 127.0.0.1:51998
+2017-03-19 16:33:10,163 [INFO] - [*] Connected with 127.0.0.1:51999
+2017-03-19 16:33:10,216 [INFO] - [*] Connected with 127.0.0.1:52000
+2017-03-19 16:33:10,272 [INFO] - [*] Connected with 127.0.0.1:52001
+2017-03-19 16:33:10,324 [INFO] - [*] Connected with 127.0.0.1:52002
+2017-03-19 16:33:10,374 [INFO] - [*] Connected with 127.0.0.1:52003
+2017-03-19 16:33:10,428 [INFO] - [*] Connected with 127.0.0.1:52004
+2017-03-19 16:33:10,488 [INFO] - [*] Connected with 127.0.0.1:52005
+2017-03-19 16:33:10,537 [INFO] - [*] Connected with 127.0.0.1:52007
+2017-03-19 16:33:10,591 [INFO] - [*] Connected with 127.0.0.1:52008
+2017-03-19 16:33:10,642 [INFO] - [*] Connected with 127.0.0.1:52009
+2017-03-19 16:33:10,706 [INFO] - [*] Connected with 127.0.0.1:52010
+2017-03-19 16:33:10,762 [INFO] - [*] Connected with 127.0.0.1:52011
+2017-03-19 16:33:10,814 [INFO] - [*] Connected with 127.0.0.1:52012
+2017-03-19 16:33:10,869 [INFO] - [*] Connected with 127.0.0.1:52013
+2017-03-19 16:33:10,932 [INFO] - [*] Connected with 127.0.0.1:52014
+2017-03-19 16:33:11,026 [INFO] - [*] Connected with 127.0.0.1:52015
+2017-03-19 16:33:11,096 [INFO] - [*] Connected with 127.0.0.1:52016
+2017-03-19 16:33:11,158 [INFO] - [*] Connected with 127.0.0.1:52017
+2017-03-19 16:33:11,217 [INFO] - [*] Connected with 127.0.0.1:52018
+2017-03-19 16:33:11,272 [INFO] - [*] Connected with 127.0.0.1:52019
+2017-03-19 16:33:11,332 [INFO] - [*] Connected with 127.0.0.1:52020
+2017-03-19 16:33:11,391 [INFO] - [*] Connected with 127.0.0.1:52021
+2017-03-19 16:33:11,462 [INFO] - [*] Connected with 127.0.0.1:52022
+2017-03-19 16:33:11,520 [INFO] - [*] Connected with 127.0.0.1:52024
+2017-03-19 16:33:11,611 [INFO] - [*] Connected with 127.0.0.1:52027
+2017-03-19 16:33:11,709 [INFO] - [*] Connected with 127.0.0.1:52028
+2017-03-19 16:33:11,778 [INFO] - [*] Connected with 127.0.0.1:52029
+2017-03-19 16:33:11,835 [INFO] - [*] Connected with 127.0.0.1:52030
+2017-03-19 16:33:11,893 [INFO] - [*] Connected with 127.0.0.1:52031
+2017-03-19 16:33:11,950 [INFO] - [*] Connected with 127.0.0.1:52032
+2017-03-19 16:33:12,018 [INFO] - [*] Connected with 127.0.0.1:52033
+2017-03-19 16:33:12,097 [INFO] - [*] Connected with 127.0.0.1:52034
+2017-03-19 16:33:12,161 [INFO] - [*] Connected with 127.0.0.1:52035
+2017-03-19 16:33:12,220 [INFO] - [*] Connected with 127.0.0.1:52036
+2017-03-19 16:33:12,277 [INFO] - [*] Connected with 127.0.0.1:52037
+2017-03-19 16:33:12,337 [INFO] - [*] Connected with 127.0.0.1:52038
+2017-03-19 16:33:12,396 [INFO] - [*] Connected with 127.0.0.1:52039
+2017-03-19 16:33:12,462 [INFO] - [*] Connected with 127.0.0.1:52040
+2017-03-19 16:33:12,518 [INFO] - [*] Connected with 127.0.0.1:52041
+2017-03-19 16:33:12,576 [INFO] - [*] Connected with 127.0.0.1:52042
+2017-03-19 16:33:12,636 [INFO] - [*] Connected with 127.0.0.1:52043
+2017-03-19 16:33:12,693 [INFO] - [*] Connected with 127.0.0.1:52044
+2017-03-19 16:33:12,756 [INFO] - [*] Connected with 127.0.0.1:52045
+2017-03-19 16:33:12,810 [INFO] - [*] Connected with 127.0.0.1:52046
+2017-03-19 16:33:12,870 [INFO] - [*] Connected with 127.0.0.1:52047
+2017-03-19 16:33:12,926 [INFO] - [*] Connected with 127.0.0.1:52048
+2017-03-19 16:33:12,980 [INFO] - [*] Connected with 127.0.0.1:52049
+2017-03-19 16:33:13,037 [INFO] - [*] Connected with 127.0.0.1:52050
+2017-03-19 16:33:13,093 [INFO] - [*] Connected with 127.0.0.1:52051
+2017-03-19 16:33:13,152 [INFO] - [*] Connected with 127.0.0.1:52052
+2017-03-19 16:33:13,213 [INFO] - [*] Connected with 127.0.0.1:52053
+2017-03-19 16:34:30,533 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 16:34:30,534 [INFO] - [*] System Exit
+2017-03-19 16:34:33,964 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 16:34:33,964 [INFO] - [*] System Exit
+2017-03-19 16:34:36,389 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 16:34:36,390 [INFO] - [*] System Exit
+2017-03-19 16:34:48,326 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 16:34:48,327 [INFO] - [*] System Exit
+2017-03-19 16:35:47,469 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 16:35:47,470 [INFO] - [*] System Exit
+2017-03-19 16:36:19,173 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 16:36:19,174 [INFO] - [*] System Exit
+2017-03-19 16:36:45,442 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 16:36:45,442 [INFO] - [*] System Exit
+2017-03-19 18:13:13,290 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 18:13:13,291 [INFO] - [*] System Bind Complete
+2017-03-19 18:13:13,291 [INFO] - [*] Socket Server listening at 8888
+2017-03-19 18:13:37,909 [INFO] - [*] Connected with 192.168.0.54:50407
+2017-03-19 18:13:37,962 [INFO] - [*] Connected with 127.0.0.1:53611
+2017-03-19 18:13:38,007 [INFO] - [*] Connected with 127.0.0.1:53612
+2017-03-19 18:13:38,056 [INFO] - [*] Connected with 127.0.0.1:53613
+2017-03-19 18:13:38,099 [INFO] - [*] Connected with 127.0.0.1:53614
+2017-03-19 18:13:38,142 [INFO] - [*] Connected with 127.0.0.1:53615
+2017-03-19 18:13:38,192 [INFO] - [*] Connected with 127.0.0.1:53616
+2017-03-19 18:13:38,235 [INFO] - [*] Connected with 127.0.0.1:53617
+2017-03-19 18:13:38,280 [INFO] - [*] Connected with 127.0.0.1:53618
+2017-03-19 18:13:38,326 [INFO] - [*] Connected with 127.0.0.1:53619
+2017-03-19 18:13:38,384 [INFO] - [*] Connected with 127.0.0.1:53620
+2017-03-19 18:13:38,436 [INFO] - [*] Connected with 127.0.0.1:53621
+2017-03-19 18:13:38,479 [INFO] - [*] Connected with 127.0.0.1:53622
+2017-03-19 18:13:38,522 [INFO] - [*] Connected with 127.0.0.1:53623
+2017-03-19 18:13:38,566 [INFO] - [*] Connected with 127.0.0.1:53624
+2017-03-19 18:13:38,610 [INFO] - [*] Connected with 127.0.0.1:53625
+2017-03-19 18:13:38,654 [INFO] - [*] Connected with 127.0.0.1:53626
+2017-03-19 18:13:38,699 [INFO] - [*] Connected with 127.0.0.1:53627
+2017-03-19 18:13:38,741 [INFO] - [*] Connected with 127.0.0.1:53628
+2017-03-19 18:13:38,786 [INFO] - [*] Connected with 127.0.0.1:53629
+2017-03-19 18:13:38,829 [INFO] - [*] Connected with 127.0.0.1:53630
+2017-03-19 18:13:38,872 [INFO] - [*] Connected with 127.0.0.1:53631
+2017-03-19 18:13:38,914 [INFO] - [*] Connected with 127.0.0.1:53632
+2017-03-19 18:13:38,958 [INFO] - [*] Connected with 127.0.0.1:53633
+2017-03-19 18:13:39,002 [INFO] - [*] Connected with 127.0.0.1:53634
+2017-03-19 18:13:39,045 [INFO] - [*] Connected with 127.0.0.1:53635
+2017-03-19 18:13:39,088 [INFO] - [*] Connected with 127.0.0.1:53636
+2017-03-19 18:13:39,131 [INFO] - [*] Connected with 127.0.0.1:53637
+2017-03-19 18:13:39,182 [INFO] - [*] Connected with 127.0.0.1:53638
+2017-03-19 18:13:39,226 [INFO] - [*] Connected with 127.0.0.1:53639
+2017-03-19 18:13:39,269 [INFO] - [*] Connected with 127.0.0.1:53640
+2017-03-19 18:13:39,313 [INFO] - [*] Connected with 127.0.0.1:53641
+2017-03-19 18:13:39,360 [INFO] - [*] Connected with 127.0.0.1:53642
+2017-03-19 18:13:39,404 [INFO] - [*] Connected with 127.0.0.1:53643
+2017-03-19 18:13:39,450 [INFO] - [*] Connected with 127.0.0.1:53644
+2017-03-19 18:13:39,493 [INFO] - [*] Connected with 127.0.0.1:53645
+2017-03-19 18:13:39,537 [INFO] - [*] Connected with 127.0.0.1:53646
+2017-03-19 18:13:39,581 [INFO] - [*] Connected with 127.0.0.1:53647
+2017-03-19 18:13:39,627 [INFO] - [*] Connected with 127.0.0.1:53648
+2017-03-19 18:13:39,671 [INFO] - [*] Connected with 127.0.0.1:53649
+2017-03-19 18:13:39,716 [INFO] - [*] Connected with 127.0.0.1:53650
+2017-03-19 18:13:39,760 [INFO] - [*] Connected with 127.0.0.1:53651
+2017-03-19 18:13:39,803 [INFO] - [*] Connected with 127.0.0.1:53652
+2017-03-19 18:13:39,848 [INFO] - [*] Connected with 127.0.0.1:53653
+2017-03-19 18:13:39,893 [INFO] - [*] Connected with 127.0.0.1:53654
+2017-03-19 18:13:39,941 [INFO] - [*] Connected with 127.0.0.1:53655
+2017-03-19 18:13:39,984 [INFO] - [*] Connected with 127.0.0.1:53656
+2017-03-19 18:13:40,028 [INFO] - [*] Connected with 127.0.0.1:53657
+2017-03-19 18:13:40,072 [INFO] - [*] Connected with 127.0.0.1:53658
+2017-03-19 18:13:40,116 [INFO] - [*] Connected with 127.0.0.1:53659
+2017-03-19 18:13:40,161 [INFO] - [*] Connected with 127.0.0.1:53660
+2017-03-19 18:13:40,207 [INFO] - [*] Connected with 127.0.0.1:53661
+2017-03-19 18:13:40,251 [INFO] - [*] Connected with 127.0.0.1:53662
+2017-03-19 18:13:40,297 [INFO] - [*] Connected with 127.0.0.1:53663
+2017-03-19 18:13:40,343 [INFO] - [*] Connected with 127.0.0.1:53664
+2017-03-19 18:13:40,388 [INFO] - [*] Connected with 127.0.0.1:53665
+2017-03-19 18:13:40,434 [INFO] - [*] Connected with 127.0.0.1:53666
+2017-03-19 18:13:40,481 [INFO] - [*] Connected with 127.0.0.1:53667
+2017-03-19 18:13:40,527 [INFO] - [*] Connected with 127.0.0.1:53669
+2017-03-19 18:13:40,570 [INFO] - [*] Connected with 127.0.0.1:53670
+2017-03-19 18:13:40,616 [INFO] - [*] Connected with 127.0.0.1:53671
+2017-03-19 18:13:40,661 [INFO] - [*] Connected with 127.0.0.1:53672
+2017-03-19 18:13:40,707 [INFO] - [*] Connected with 127.0.0.1:53673
+2017-03-19 18:13:40,754 [INFO] - [*] Connected with 127.0.0.1:53674
+2017-03-19 18:13:40,799 [INFO] - [*] Connected with 127.0.0.1:53675
+2017-03-19 18:13:40,845 [INFO] - [*] Connected with 127.0.0.1:53676
+2017-03-19 18:13:40,890 [INFO] - [*] Connected with 127.0.0.1:53677
+2017-03-19 18:13:40,935 [INFO] - [*] Connected with 127.0.0.1:53678
+2017-03-19 18:13:40,987 [INFO] - [*] Connected with 127.0.0.1:53679
+2017-03-19 18:13:41,035 [INFO] - [*] Connected with 127.0.0.1:53680
+2017-03-19 18:13:41,084 [INFO] - [*] Connected with 127.0.0.1:53681
+2017-03-19 18:13:41,133 [INFO] - [*] Connected with 127.0.0.1:53682
+2017-03-19 18:13:41,177 [INFO] - [*] Connected with 127.0.0.1:53683
+2017-03-19 18:13:41,221 [INFO] - [*] Connected with 127.0.0.1:53684
+2017-03-19 18:13:41,265 [INFO] - [*] Connected with 127.0.0.1:53685
+2017-03-19 18:13:41,312 [INFO] - [*] Connected with 127.0.0.1:53686
+2017-03-19 18:13:41,358 [INFO] - [*] Connected with 127.0.0.1:53687
+2017-03-19 18:13:41,404 [INFO] - [*] Connected with 127.0.0.1:53688
+2017-03-19 18:13:41,450 [INFO] - [*] Connected with 127.0.0.1:53689
+2017-03-19 18:13:41,500 [INFO] - [*] Connected with 127.0.0.1:53690
+2017-03-19 18:13:41,545 [INFO] - [*] Connected with 127.0.0.1:53691
+2017-03-19 18:13:41,590 [INFO] - [*] Connected with 127.0.0.1:53692
+2017-03-19 18:13:41,637 [INFO] - [*] Connected with 127.0.0.1:53693
+2017-03-19 18:13:41,682 [INFO] - [*] Connected with 127.0.0.1:53694
+2017-03-19 18:13:41,726 [INFO] - [*] Connected with 127.0.0.1:53695
+2017-03-19 18:13:41,770 [INFO] - [*] Connected with 127.0.0.1:53696
+2017-03-19 18:13:41,816 [INFO] - [*] Connected with 127.0.0.1:53697
+2017-03-19 18:13:41,861 [INFO] - [*] Connected with 127.0.0.1:53698
+2017-03-19 18:13:41,905 [INFO] - [*] Connected with 127.0.0.1:53699
+2017-03-19 18:13:41,951 [INFO] - [*] Connected with 127.0.0.1:53700
+2017-03-19 18:13:41,997 [INFO] - [*] Connected with 127.0.0.1:53701
+2017-03-19 18:13:42,044 [INFO] - [*] Connected with 127.0.0.1:53702
+2017-03-19 18:13:42,091 [INFO] - [*] Connected with 127.0.0.1:53703
+2017-03-19 18:13:42,137 [INFO] - [*] Connected with 127.0.0.1:53704
+2017-03-19 18:13:42,187 [INFO] - [*] Connected with 127.0.0.1:53705
+2017-03-19 18:13:42,232 [INFO] - [*] Connected with 127.0.0.1:53706
+2017-03-19 18:13:42,275 [INFO] - [*] Connected with 127.0.0.1:53707
+2017-03-19 18:13:42,322 [INFO] - [*] Connected with 127.0.0.1:53708
+2017-03-19 18:13:42,369 [INFO] - [*] Connected with 127.0.0.1:53709
+2017-03-19 18:13:42,414 [INFO] - [*] Connected with 127.0.0.1:53710
+2017-03-19 18:13:42,458 [INFO] - [*] Connected with 127.0.0.1:53711
+2017-03-19 18:13:42,506 [INFO] - [*] Connected with 127.0.0.1:53712
+2017-03-19 18:13:42,550 [INFO] - [*] Connected with 127.0.0.1:53713
+2017-03-19 18:13:42,598 [INFO] - [*] Connected with 127.0.0.1:53714
+2017-03-19 18:13:42,645 [INFO] - [*] Connected with 127.0.0.1:53715
+2017-03-19 18:13:42,691 [INFO] - [*] Connected with 127.0.0.1:53716
+2017-03-19 18:13:42,737 [INFO] - [*] Connected with 127.0.0.1:53717
+2017-03-19 18:13:42,784 [INFO] - [*] Connected with 127.0.0.1:53718
+2017-03-19 18:13:42,832 [INFO] - [*] Connected with 127.0.0.1:53719
+2017-03-19 18:13:42,877 [INFO] - [*] Connected with 127.0.0.1:53720
+2017-03-19 18:13:42,925 [INFO] - [*] Connected with 127.0.0.1:53721
+2017-03-19 18:13:42,972 [INFO] - [*] Connected with 127.0.0.1:53722
+2017-03-19 18:13:43,019 [INFO] - [*] Connected with 127.0.0.1:53723
+2017-03-19 18:13:43,067 [INFO] - [*] Connected with 127.0.0.1:53724
+2017-03-19 18:13:43,115 [INFO] - [*] Connected with 127.0.0.1:53725
+2017-03-19 18:13:43,160 [INFO] - [*] Connected with 127.0.0.1:53726
+2017-03-19 18:13:43,206 [INFO] - [*] Connected with 127.0.0.1:53727
+2017-03-19 18:13:43,251 [INFO] - [*] Connected with 127.0.0.1:53728
+2017-03-19 18:13:43,299 [INFO] - [*] Connected with 127.0.0.1:53729
+2017-03-19 18:13:43,348 [INFO] - [*] Connected with 127.0.0.1:53730
+2017-03-19 18:13:43,396 [INFO] - [*] Connected with 127.0.0.1:53731
+2017-03-19 18:13:43,447 [INFO] - [*] Connected with 127.0.0.1:53732
+2017-03-19 18:13:43,496 [INFO] - [*] Connected with 127.0.0.1:53733
+2017-03-19 18:13:43,544 [INFO] - [*] Connected with 127.0.0.1:53734
+2017-03-19 18:13:43,595 [INFO] - [*] Connected with 127.0.0.1:53735
+2017-03-19 18:13:43,643 [INFO] - [*] Connected with 127.0.0.1:53736
+2017-03-19 18:13:43,688 [INFO] - [*] Connected with 127.0.0.1:53737
+2017-03-19 18:13:43,736 [INFO] - [*] Connected with 127.0.0.1:53738
+2017-03-19 18:13:43,785 [INFO] - [*] Connected with 127.0.0.1:53739
+2017-03-19 18:13:43,832 [INFO] - [*] Connected with 127.0.0.1:53740
+2017-03-19 18:13:43,883 [INFO] - [*] Connected with 127.0.0.1:53741
+2017-03-19 18:13:43,934 [INFO] - [*] Connected with 127.0.0.1:53742
+2017-03-19 18:13:43,981 [INFO] - [*] Connected with 127.0.0.1:53743
+2017-03-19 18:13:44,030 [INFO] - [*] Connected with 127.0.0.1:53744
+2017-03-19 18:13:44,076 [INFO] - [*] Connected with 127.0.0.1:53745
+2017-03-19 18:13:44,124 [INFO] - [*] Connected with 127.0.0.1:53746
+2017-03-19 18:13:44,172 [INFO] - [*] Connected with 127.0.0.1:53747
+2017-03-19 18:13:44,225 [INFO] - [*] Connected with 127.0.0.1:53748
+2017-03-19 18:13:44,276 [INFO] - [*] Connected with 127.0.0.1:53749
+2017-03-19 18:13:44,328 [INFO] - [*] Connected with 127.0.0.1:53750
+2017-03-19 18:13:44,377 [INFO] - [*] Connected with 127.0.0.1:53751
+2017-03-19 18:13:44,427 [INFO] - [*] Connected with 127.0.0.1:53752
+2017-03-19 18:13:44,475 [INFO] - [*] Connected with 127.0.0.1:53753
+2017-03-19 18:13:44,526 [INFO] - [*] Connected with 127.0.0.1:53754
+2017-03-19 18:13:44,573 [INFO] - [*] Connected with 127.0.0.1:53755
+2017-03-19 18:13:44,622 [INFO] - [*] Connected with 127.0.0.1:53756
+2017-03-19 18:13:44,669 [INFO] - [*] Connected with 127.0.0.1:53757
+2017-03-19 18:13:44,716 [INFO] - [*] Connected with 127.0.0.1:53758
+2017-03-19 18:13:44,764 [INFO] - [*] Connected with 127.0.0.1:53759
+2017-03-19 18:13:44,812 [INFO] - [*] Connected with 127.0.0.1:53760
+2017-03-19 18:13:44,862 [INFO] - [*] Connected with 127.0.0.1:53761
+2017-03-19 18:13:44,906 [INFO] - [*] Connected with 127.0.0.1:53762
+2017-03-19 18:13:44,951 [INFO] - [*] Connected with 127.0.0.1:53763
+2017-03-19 18:13:44,996 [INFO] - [*] Connected with 127.0.0.1:53764
+2017-03-19 18:13:45,042 [INFO] - [*] Connected with 127.0.0.1:53765
+2017-03-19 18:13:45,088 [INFO] - [*] Connected with 127.0.0.1:53766
+2017-03-19 18:13:45,131 [INFO] - [*] Connected with 127.0.0.1:53767
+2017-03-19 18:13:45,174 [INFO] - [*] Connected with 127.0.0.1:53768
+2017-03-19 18:13:45,221 [INFO] - [*] Connected with 127.0.0.1:53769
+2017-03-19 18:13:45,268 [INFO] - [*] Connected with 127.0.0.1:53770
+2017-03-19 18:13:45,318 [INFO] - [*] Connected with 127.0.0.1:53771
+2017-03-19 18:13:45,367 [INFO] - [*] Connected with 127.0.0.1:53772
+2017-03-19 18:13:45,414 [INFO] - [*] Connected with 127.0.0.1:53773
+2017-03-19 18:13:45,460 [INFO] - [*] Connected with 127.0.0.1:53774
+2017-03-19 18:13:45,508 [INFO] - [*] Connected with 127.0.0.1:53775
+2017-03-19 18:13:45,556 [INFO] - [*] Connected with 127.0.0.1:53776
+2017-03-19 18:13:45,608 [INFO] - [*] Connected with 127.0.0.1:53777
+2017-03-19 18:13:45,654 [INFO] - [*] Connected with 127.0.0.1:53778
+2017-03-19 18:13:45,703 [INFO] - [*] Connected with 127.0.0.1:53779
+2017-03-19 18:13:45,750 [INFO] - [*] Connected with 127.0.0.1:53780
+2017-03-19 18:13:45,801 [INFO] - [*] Connected with 127.0.0.1:53781
+2017-03-19 18:13:45,850 [INFO] - [*] Connected with 127.0.0.1:53782
+2017-03-19 18:13:45,898 [INFO] - [*] Connected with 127.0.0.1:53783
+2017-03-19 18:13:45,949 [INFO] - [*] Connected with 127.0.0.1:53784
+2017-03-19 18:13:46,000 [INFO] - [*] Connected with 127.0.0.1:53785
+2017-03-19 18:13:46,049 [INFO] - [*] Connected with 127.0.0.1:53786
+2017-03-19 18:13:46,099 [INFO] - [*] Connected with 127.0.0.1:53787
+2017-03-19 18:13:46,153 [INFO] - [*] Connected with 127.0.0.1:53788
+2017-03-19 18:13:46,202 [INFO] - [*] Connected with 127.0.0.1:53789
+2017-03-19 18:13:46,252 [INFO] - [*] Connected with 127.0.0.1:53790
+2017-03-19 18:13:46,302 [INFO] - [*] Connected with 127.0.0.1:53791
+2017-03-19 18:13:46,350 [INFO] - [*] Connected with 127.0.0.1:53792
+2017-03-19 18:13:46,402 [INFO] - [*] Connected with 127.0.0.1:53793
+2017-03-19 18:13:46,450 [INFO] - [*] Connected with 127.0.0.1:53794
+2017-03-19 18:13:46,504 [INFO] - [*] Connected with 127.0.0.1:53795
+2017-03-19 18:13:46,560 [INFO] - [*] Connected with 127.0.0.1:53796
+2017-03-19 18:13:46,618 [INFO] - [*] Connected with 127.0.0.1:53797
+2017-03-19 18:13:46,681 [INFO] - [*] Connected with 127.0.0.1:53798
+2017-03-19 18:13:46,735 [INFO] - [*] Connected with 127.0.0.1:53799
+2017-03-19 18:13:46,797 [INFO] - [*] Connected with 127.0.0.1:53800
+2017-03-19 18:13:46,849 [INFO] - [*] Connected with 127.0.0.1:53801
+2017-03-19 18:13:46,906 [INFO] - [*] Connected with 127.0.0.1:53802
+2017-03-19 18:13:46,960 [INFO] - [*] Connected with 127.0.0.1:53803
+2017-03-19 18:13:47,020 [INFO] - [*] Connected with 127.0.0.1:53804
+2017-03-19 18:13:47,077 [INFO] - [*] Connected with 127.0.0.1:53805
+2017-03-19 18:13:47,129 [INFO] - [*] Connected with 127.0.0.1:53806
+2017-03-19 18:13:47,181 [INFO] - [*] Connected with 127.0.0.1:53807
+2017-03-19 18:13:47,236 [INFO] - [*] Connected with 127.0.0.1:53808
+2017-03-19 18:13:47,290 [INFO] - [*] Connected with 127.0.0.1:53809
+2017-03-19 18:13:47,346 [INFO] - [*] Connected with 127.0.0.1:53810
+2017-03-19 18:13:47,401 [INFO] - [*] Connected with 127.0.0.1:53811
+2017-03-19 18:13:47,452 [INFO] - [*] Connected with 127.0.0.1:53812
+2017-03-19 18:13:47,504 [INFO] - [*] Connected with 127.0.0.1:53813
+2017-03-19 18:13:47,561 [INFO] - [*] Connected with 127.0.0.1:53814
+2017-03-19 18:13:47,616 [INFO] - [*] Connected with 127.0.0.1:53815
+2017-03-19 18:13:47,674 [INFO] - [*] Connected with 127.0.0.1:53816
+2017-03-19 18:13:47,724 [INFO] - [*] Connected with 127.0.0.1:53817
+2017-03-19 18:13:47,771 [INFO] - [*] Connected with 127.0.0.1:53818
+2017-03-19 18:13:47,822 [INFO] - [*] Connected with 127.0.0.1:53819
+2017-03-19 18:13:47,885 [INFO] - [*] Connected with 127.0.0.1:53820
+2017-03-19 18:13:47,945 [INFO] - [*] Connected with 127.0.0.1:53821
+2017-03-19 18:13:47,998 [INFO] - [*] Connected with 127.0.0.1:53822
+2017-03-19 18:13:48,051 [INFO] - [*] Connected with 127.0.0.1:53823
+2017-03-19 18:13:48,110 [INFO] - [*] Connected with 127.0.0.1:53824
+2017-03-19 18:13:48,163 [INFO] - [*] Connected with 127.0.0.1:53825
+2017-03-19 18:13:48,224 [INFO] - [*] Connected with 127.0.0.1:53826
+2017-03-19 18:13:48,276 [INFO] - [*] Connected with 127.0.0.1:53827
+2017-03-19 18:13:48,389 [INFO] - [*] Connected with 127.0.0.1:53828
+2017-03-19 18:13:48,482 [INFO] - [*] Connected with 127.0.0.1:53829
+2017-03-19 18:13:48,566 [INFO] - [*] Connected with 127.0.0.1:53830
+2017-03-19 18:13:48,647 [INFO] - [*] Connected with 127.0.0.1:53831
+2017-03-19 18:13:48,719 [INFO] - [*] Connected with 127.0.0.1:53832
+2017-03-19 18:13:48,830 [INFO] - [*] Connected with 127.0.0.1:53833
+2017-03-19 18:13:48,922 [INFO] - [*] Connected with 127.0.0.1:53835
+2017-03-19 18:13:49,006 [INFO] - [*] Connected with 127.0.0.1:53836
+2017-03-19 18:13:49,092 [INFO] - [*] Connected with 127.0.0.1:53837
+2017-03-19 18:13:49,163 [INFO] - [*] Connected with 127.0.0.1:53838
+2017-03-19 18:13:49,235 [INFO] - [*] Connected with 127.0.0.1:53839
+2017-03-19 18:13:49,288 [INFO] - [*] Connected with 127.0.0.1:53840
+2017-03-19 18:13:49,349 [INFO] - [*] Connected with 127.0.0.1:53841
+2017-03-19 18:13:49,409 [INFO] - [*] Connected with 127.0.0.1:53842
+2017-03-19 18:13:49,469 [INFO] - [*] Connected with 127.0.0.1:53843
+2017-03-19 18:13:49,525 [INFO] - [*] Connected with 127.0.0.1:53844
+2017-03-19 18:13:49,584 [INFO] - [*] Connected with 127.0.0.1:53845
+2017-03-19 18:13:49,644 [INFO] - [*] Connected with 127.0.0.1:53846
+2017-03-19 18:13:49,708 [INFO] - [*] Connected with 127.0.0.1:53847
+2017-03-19 18:13:49,760 [INFO] - [*] Connected with 127.0.0.1:53848
+2017-03-19 18:13:49,820 [INFO] - [*] Connected with 127.0.0.1:53849
+2017-03-19 18:13:49,878 [INFO] - [*] Connected with 127.0.0.1:53850
+2017-03-19 18:13:49,936 [INFO] - [*] Connected with 127.0.0.1:53851
+2017-03-19 18:13:49,997 [INFO] - [*] Connected with 127.0.0.1:53852
+2017-03-19 18:13:50,064 [INFO] - [*] Connected with 127.0.0.1:53853
+2017-03-19 18:13:50,119 [INFO] - [*] Connected with 127.0.0.1:53854
+2017-03-19 18:13:50,176 [INFO] - [*] Connected with 127.0.0.1:53855
+2017-03-19 18:13:50,234 [INFO] - [*] Connected with 127.0.0.1:53856
+2017-03-19 18:13:50,303 [INFO] - [*] Connected with 127.0.0.1:53857
+2017-03-19 18:13:50,362 [INFO] - [*] Connected with 127.0.0.1:53858
+2017-03-19 19:54:21,230 [INFO] - [*] Socket Created at port: 8888
+2017-03-19 19:54:21,230 [INFO] - [*] System Bind Complete
+2017-03-19 19:54:21,230 [INFO] - [*] Socket Server listening at 8888
+2017-03-19 19:54:27,614 [INFO] - [*] Connected with 192.168.0.54:63062
+2017-03-19 19:54:27,715 [INFO] - [*] Connected with 127.0.0.1:54798
+2017-03-19 19:54:27,766 [INFO] - [*] Connected with 127.0.0.1:54799
+2017-03-19 19:54:27,821 [INFO] - [*] Connected with 127.0.0.1:54801
+2017-03-19 19:54:27,868 [INFO] - [*] Connected with 127.0.0.1:54802
+2017-03-19 19:54:27,924 [INFO] - [*] Connected with 127.0.0.1:54803
+2017-03-19 19:54:27,976 [INFO] - [*] Connected with 127.0.0.1:54804
+2017-03-19 19:54:28,032 [INFO] - [*] Connected with 127.0.0.1:54805
+2017-03-19 19:54:28,088 [INFO] - [*] Connected with 127.0.0.1:54806
+2017-03-19 19:54:28,149 [INFO] - [*] Connected with 127.0.0.1:54807
+2017-03-19 19:54:28,203 [INFO] - [*] Connected with 127.0.0.1:54808
+2017-03-19 19:54:28,265 [INFO] - [*] Connected with 127.0.0.1:54809
+2017-03-19 19:54:28,315 [INFO] - [*] Connected with 127.0.0.1:54810
+2017-03-19 19:54:28,370 [INFO] - [*] Connected with 127.0.0.1:54811
+2017-03-19 19:54:28,420 [INFO] - [*] Connected with 127.0.0.1:54812
+2017-03-19 19:54:28,476 [INFO] - [*] Connected with 127.0.0.1:54813
+2017-03-19 19:54:28,530 [INFO] - [*] Connected with 127.0.0.1:54814
+2017-03-19 19:54:28,586 [INFO] - [*] Connected with 127.0.0.1:54815
+2017-03-19 19:54:28,640 [INFO] - [*] Connected with 127.0.0.1:54816
+2017-03-19 19:54:28,696 [INFO] - [*] Connected with 127.0.0.1:54817
+2017-03-19 19:54:28,756 [INFO] - [*] Connected with 127.0.0.1:54818
+2017-03-19 19:54:28,815 [INFO] - [*] Connected with 127.0.0.1:54819
+2017-03-19 19:54:28,868 [INFO] - [*] Connected with 127.0.0.1:54820
+2017-03-19 19:54:28,925 [INFO] - [*] Connected with 127.0.0.1:54821
+2017-03-19 19:54:28,980 [INFO] - [*] Connected with 127.0.0.1:54822
+2017-03-19 19:54:29,039 [INFO] - [*] Connected with 127.0.0.1:54823
+2017-03-19 19:54:29,101 [INFO] - [*] Connected with 127.0.0.1:54824
+2017-03-19 19:54:29,150 [INFO] - [*] Connected with 127.0.0.1:54825
+2017-03-19 19:54:29,208 [INFO] - [*] Connected with 127.0.0.1:54826
+2017-03-19 19:54:29,264 [INFO] - [*] Connected with 127.0.0.1:54827
+2017-03-19 19:54:29,320 [INFO] - [*] Connected with 127.0.0.1:54828
+2017-03-19 19:54:29,374 [INFO] - [*] Connected with 127.0.0.1:54829
+2017-03-19 19:54:29,424 [INFO] - [*] Connected with 127.0.0.1:54830
+2017-03-19 19:54:29,481 [INFO] - [*] Connected with 127.0.0.1:54831
+2017-03-19 19:54:29,533 [INFO] - [*] Connected with 127.0.0.1:54832
+2017-03-19 19:54:29,587 [INFO] - [*] Connected with 127.0.0.1:54833
+2017-03-19 19:54:29,641 [INFO] - [*] Connected with 127.0.0.1:54834
+2017-03-19 19:54:29,691 [INFO] - [*] Connected with 127.0.0.1:54835
+2017-03-19 19:54:29,745 [INFO] - [*] Connected with 127.0.0.1:54836
+2017-03-19 19:54:29,807 [INFO] - [*] Connected with 127.0.0.1:54837
+2017-03-19 19:54:29,866 [INFO] - [*] Connected with 127.0.0.1:54838
+2017-03-19 19:54:29,932 [INFO] - [*] Connected with 127.0.0.1:54839
+2017-03-19 19:54:29,994 [INFO] - [*] Connected with 127.0.0.1:54840
+2017-03-19 19:54:30,052 [INFO] - [*] Connected with 127.0.0.1:54841
+2017-03-19 19:54:30,110 [INFO] - [*] Connected with 127.0.0.1:54842
+2017-03-19 19:54:30,168 [INFO] - [*] Connected with 127.0.0.1:54843
+2017-03-19 19:54:30,220 [INFO] - [*] Connected with 127.0.0.1:54844
+2017-03-19 19:54:30,275 [INFO] - [*] Connected with 127.0.0.1:54845
+2017-03-19 19:54:30,327 [INFO] - [*] Connected with 127.0.0.1:54846
+2017-03-19 19:54:30,388 [INFO] - [*] Connected with 127.0.0.1:54847
+2017-03-19 19:54:30,440 [INFO] - [*] Connected with 127.0.0.1:54848
+2017-03-19 19:54:30,492 [INFO] - [*] Connected with 127.0.0.1:54849
+2017-03-19 19:54:30,543 [INFO] - [*] Connected with 127.0.0.1:54850
+2017-03-19 19:54:30,600 [INFO] - [*] Connected with 127.0.0.1:54851
+2017-03-19 19:54:30,654 [INFO] - [*] Connected with 127.0.0.1:54852
